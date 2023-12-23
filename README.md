@@ -1,4 +1,6 @@
 # Fitting Poisson  distribution
+# NAME: GANESH. G
+# REG.NO: 212223230059
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
